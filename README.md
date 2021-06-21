@@ -1,2 +1,2 @@
-# Labeler for image classification
+# Labeler for binary image classification
  
