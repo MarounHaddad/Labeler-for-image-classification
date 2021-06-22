@@ -9,3 +9,6 @@ In case of a mistake, you can readjust it by reselecting the correct class.
 A small score tracker introduces an element of gamification that tracks the number of correctly labeled images without a mistake...just to elevate a bit the boredom of the task :) .  
 
 
+<p align="center">
+  <img width="1000" height="500" src="https://github.com/MarounHaddad/Scraping-images-from-google-images/blob/main/images/internet%20explorer%20example.PNG">
+</p>
