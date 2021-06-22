@@ -10,5 +10,5 @@ A small score tracker introduces an element of gamification that tracks the numb
 
 
 <p align="center">
-  <img width="1000" height="500" src="https://github.com/MarounHaddad/Scraping-images-from-google-images/blob/main/images/internet%20explorer%20example.PNG">
+  <img width="1000" height="1000" src="https://github.com/MarounHaddad/Labeler-for-image-classification/blob/main/Image/example.PNG">
 </p>
