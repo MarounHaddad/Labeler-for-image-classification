@@ -89,8 +89,6 @@
             this.txtClass1Destination.Name = "txtClass1Destination";
             this.txtClass1Destination.Size = new System.Drawing.Size(855, 52);
             this.txtClass1Destination.TabIndex = 3;
-            this.txtClass1Destination.Text = "D:\\UNIVERSITY\\Inf7370 - Apprentissage automatique\\Projet\\Data\\Live\\dogs vs cats\\t" +
-    "est\\cats";
             // 
             // lblClass1Destination
             // 
@@ -123,8 +121,6 @@
             this.txtClass2Destination.Name = "txtClass2Destination";
             this.txtClass2Destination.Size = new System.Drawing.Size(855, 52);
             this.txtClass2Destination.TabIndex = 5;
-            this.txtClass2Destination.Text = "D:\\UNIVERSITY\\Inf7370 - Apprentissage automatique\\Projet\\Data\\Live\\dogs vs cats\\t" +
-    "est\\dogs";
             // 
             // lblClass2Destination
             // 
@@ -273,6 +269,7 @@
             // lvImages
             // 
             this.lvImages.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.lvImages.HideSelection = false;
             this.lvImages.Location = new System.Drawing.Point(0, 0);
             this.lvImages.Name = "lvImages";
             this.lvImages.Size = new System.Drawing.Size(1044, 175);

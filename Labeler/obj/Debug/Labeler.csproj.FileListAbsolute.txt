@@ -18,3 +18,13 @@ D:\PROJECTS\PYTHON\old\Labeler\Labeler\Labeler\obj\Debug\Labeler.csproj.Generate
 D:\PROJECTS\PYTHON\old\Labeler\Labeler\Labeler\obj\Debug\Labeler.csproj.CoreCompileInputs.cache
 D:\PROJECTS\PYTHON\old\Labeler\Labeler\Labeler\obj\Debug\Labeler.exe
 D:\PROJECTS\PYTHON\old\Labeler\Labeler\Labeler\obj\Debug\Labeler.pdb
+D:\PROJECTS\PYTHON\MACHINE LEARNING\Labeler for image classification\Labeler-for-image-classification\Labeler\bin\Debug\Labeler.exe.config
+D:\PROJECTS\PYTHON\MACHINE LEARNING\Labeler for image classification\Labeler-for-image-classification\Labeler\bin\Debug\Labeler.exe
+D:\PROJECTS\PYTHON\MACHINE LEARNING\Labeler for image classification\Labeler-for-image-classification\Labeler\bin\Debug\Labeler.pdb
+D:\PROJECTS\PYTHON\MACHINE LEARNING\Labeler for image classification\Labeler-for-image-classification\Labeler\obj\Debug\Labeler.csprojAssemblyReference.cache
+D:\PROJECTS\PYTHON\MACHINE LEARNING\Labeler for image classification\Labeler-for-image-classification\Labeler\obj\Debug\Labeler.frmLabeler.resources
+D:\PROJECTS\PYTHON\MACHINE LEARNING\Labeler for image classification\Labeler-for-image-classification\Labeler\obj\Debug\Labeler.Properties.Resources.resources
+D:\PROJECTS\PYTHON\MACHINE LEARNING\Labeler for image classification\Labeler-for-image-classification\Labeler\obj\Debug\Labeler.csproj.GenerateResource.cache
+D:\PROJECTS\PYTHON\MACHINE LEARNING\Labeler for image classification\Labeler-for-image-classification\Labeler\obj\Debug\Labeler.csproj.CoreCompileInputs.cache
+D:\PROJECTS\PYTHON\MACHINE LEARNING\Labeler for image classification\Labeler-for-image-classification\Labeler\obj\Debug\Labeler.exe
+D:\PROJECTS\PYTHON\MACHINE LEARNING\Labeler for image classification\Labeler-for-image-classification\Labeler\obj\Debug\Labeler.pdb
