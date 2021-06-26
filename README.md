@@ -1,4 +1,4 @@
-# Labeler for binary image classification
+# Labeler for Binary Image Classification
  
 This small application can be used for manual labeling of the images for machine learning tasks (Binary classes).   
 This is done by splitting the images from a single source folder into two classes (a folder for each class).   
